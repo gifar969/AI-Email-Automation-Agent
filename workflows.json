@@ -22,12 +22,12 @@
         0,
         32
       ],
-      "id": "66b69ace-236f-40c8-9e4f-65c629f0b010",
+      "id": "",
       "name": "Gmail Trigger",
       "credentials": {
         "gmailOAuth2": {
-          "id": "7DLy6WYEdMheL2m1",
-          "name": "gifar969"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -48,11 +48,11 @@
         208,
         432
       ],
-      "id": "e1069141-fead-4fbb-bfa9-e65e98eb9d94",
+      "id": "",
       "name": "OpenAI Chat Model",
       "credentials": {
         "openAiApi": {
-          "id": "vNBQygm006e3FRxV",
+          "id": "",
           "name": "OpenAi ku"
         }
       }
@@ -88,7 +88,7 @@
         208,
         0
       ],
-      "id": "66066829-312b-4714-a8ec-e6a790d89713",
+      "id": "",
       "name": "Text Classifier"
     },
     {
@@ -105,7 +105,7 @@
         768,
         320
       ],
-      "id": "2b5b0b19-7ca8-490c-bfc1-a1bbb47febaf",
+      "id": "",
       "name": "AI Agent"
     },
     {
@@ -118,11 +118,11 @@
         1008,
         688
       ],
-      "id": "4906cfab-e8c2-41c1-894c-4dbf11f6c932",
+      "id": "",
       "name": "Embeddings OpenAI",
       "credentials": {
         "openAiApi": {
-          "id": "vNBQygm006e3FRxV",
+          "id": "",
           "name": "OpenAi ku"
         }
       }
@@ -138,13 +138,13 @@
         768,
         -256
       ],
-      "id": "c30a5b03-4ffc-4d02-8346-f2eee01ca188",
+      "id": "",
       "name": "Mark a message as read",
       "webhookId": "2876d795-a3c3-4ded-84c1-3d7212b3b159",
       "credentials": {
         "gmailOAuth2": {
-          "id": "7DLy6WYEdMheL2m1",
-          "name": "gifar969"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -162,13 +162,13 @@
         560,
         320
       ],
-      "id": "3838665b-3205-43d9-b023-d595374c6186",
+      "id": "",
       "name": "Customer Support",
       "webhookId": "17a3cd25-c8f0-4f07-a9fd-6c9955f4537b",
       "credentials": {
         "gmailOAuth2": {
-          "id": "7DLy6WYEdMheL2m1",
-          "name": "gifar969"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -186,13 +186,13 @@
         560,
         128
       ],
-      "id": "db2a0186-db88-4941-8ca8-17a17a25ba20",
+      "id": "",
       "name": "High Priority",
       "webhookId": "17a3cd25-c8f0-4f07-a9fd-6c9955f4537b",
       "credentials": {
         "gmailOAuth2": {
-          "id": "7DLy6WYEdMheL2m1",
-          "name": "gifar969"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -210,13 +210,13 @@
         560,
         -64
       ],
-      "id": "38d3e38c-eb9c-4655-a85a-9d7e31f84e61",
+      "id": "",
       "name": "Invoice/Billing",
       "webhookId": "17a3cd25-c8f0-4f07-a9fd-6c9955f4537b",
       "credentials": {
         "gmailOAuth2": {
-          "id": "7DLy6WYEdMheL2m1",
-          "name": "gifar969"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -234,13 +234,13 @@
         560,
         -256
       ],
-      "id": "711eebe1-b9a7-48e9-8349-7dbc43e1c5b2",
+      "id": "",
       "name": "Promotion",
       "webhookId": "17a3cd25-c8f0-4f07-a9fd-6c9955f4537b",
       "credentials": {
         "gmailOAuth2": {
-          "id": "7DLy6WYEdMheL2m1",
-          "name": "gifar969"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -257,13 +257,13 @@
         768,
         128
       ],
-      "id": "bbd3c5bc-ead1-4e96-8055-677869bcbecd",
+      "id": "",
       "name": "Forward Email to Team",
       "webhookId": "4c8bc711-d0d3-45a5-8243-ce40c04352bb",
       "credentials": {
         "gmailOAuth2": {
-          "id": "7DLy6WYEdMheL2m1",
-          "name": "gifar969"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -282,13 +282,13 @@
         768,
         -64
       ],
-      "id": "f712be99-61b5-41ca-8806-791cae29c32f",
+      "id": "",
       "name": "Get Invoice File",
       "webhookId": "80d8a995-38d7-4ab0-b558-062404afaea4",
       "credentials": {
         "gmailOAuth2": {
-          "id": "7DLy6WYEdMheL2m1",
-          "name": "gifar969"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -360,14 +360,14 @@
           "value": "1j_RthIVN9COoIKsH1ffSqjx6wmccUDf54b42XLc9Dbk",
           "mode": "list",
           "cachedResultName": "Gmail Agent",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1j_RthIVN9COoIKsH1ffSqjx6wmccUDf54b42XLc9Dbk/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/"
         },
         "sheetName": {
           "__rl": true,
           "value": 394888598,
           "mode": "list",
           "cachedResultName": "Invoice Data",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1j_RthIVN9COoIKsH1ffSqjx6wmccUDf54b42XLc9Dbk/edit#gid=394888598"
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/"
         },
         "columns": {
           "mappingMode": "defineBelow",
@@ -475,12 +475,12 @@
         1440,
         -64
       ],
-      "id": "0c2b025c-a204-4b2b-80fa-5beb8eaf7304",
+      "id": "",
       "name": "Append row in sheet",
       "credentials": {
         "googleSheetsOAuth2Api": {
-          "id": "Bctv64rpUyiENiPz",
-          "name": "gifar969"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -493,7 +493,7 @@
           "parameters": [
             {
               "name": "apikey",
-              "value": " K84744938588957"
+              "value": ""
             }
           ]
         },
@@ -516,7 +516,7 @@
         960,
         -64
       ],
-      "id": "333e9ab1-18ca-4e63-a87d-4cdeb433abf7",
+      "id": "",
       "name": "OCR"
     },
     {
@@ -528,14 +528,14 @@
           "value": "My Drive",
           "mode": "list",
           "cachedResultName": "My Drive",
-          "cachedResultUrl": "https://drive.google.com/drive/my-drive"
+          "cachedResultUrl": "https://drive.google.com/"
         },
         "folderId": {
           "__rl": true,
           "value": "1LxjpgMoK5Gxq_TP3hsEZGcmY3rV82ns0",
           "mode": "list",
           "cachedResultName": "File Test n8n",
-          "cachedResultUrl": "https://drive.google.com/drive/folders/1LxjpgMoK5Gxq_TP3hsEZGcmY3rV82ns0"
+          "cachedResultUrl": "https://drive.google.com/drive/folders/"
         },
         "options": {}
       },
@@ -545,12 +545,12 @@
         1008,
         -240
       ],
-      "id": "b1d112bd-21cf-43d5-a7d7-0eb73d959a68",
+      "id": "",
       "name": "Archive the File",
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "omcA0Vu0a7PTuzlv",
-          "name": "Freelancer2"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -571,12 +571,12 @@
         1200,
         112
       ],
-      "id": "b6292b43-9808-4536-9ef3-6379ae42a05b",
+      "id": "",
       "name": "OpenAI Chat Model1",
       "credentials": {
         "openAiApi": {
-          "id": "vNBQygm006e3FRxV",
-          "name": "OpenAi ku"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -595,13 +595,13 @@
         1616,
         -64
       ],
-      "id": "a654e1b0-b122-4906-afd5-e3b2e3bcfbc4",
+      "id": "",
       "name": "Response",
       "webhookId": "6957eb5b-3825-4ee7-88e8-13c517bc90ce",
       "credentials": {
         "gmailOAuth2": {
-          "id": "7DLy6WYEdMheL2m1",
-          "name": "gifar969"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -621,13 +621,13 @@
         1088,
         320
       ],
-      "id": "c7334658-2ceb-4972-a6a2-c8fc85c3777d",
+      "id": "",
       "name": "Response1",
       "webhookId": "7235b673-f171-41d3-aea9-226a91beb3fa",
       "credentials": {
         "gmailOAuth2": {
-          "id": "7DLy6WYEdMheL2m1",
-          "name": "gifar969"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -647,13 +647,13 @@
         960,
         128
       ],
-      "id": "8d78dd6e-07f8-4abb-9155-8560903e4a0f",
+      "id": "",
       "name": "Response2",
       "webhookId": "7235b673-f171-41d3-aea9-226a91beb3fa",
       "credentials": {
         "gmailOAuth2": {
-          "id": "7DLy6WYEdMheL2m1",
-          "name": "gifar969"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -663,13 +663,13 @@
         "toolDescription": "=ALWAYS Call this tool to gain FAQ information (MANDATORY)",
         "pineconeIndex": {
           "__rl": true,
-          "value": "freelance2",
+          "value": "",
           "mode": "list",
-          "cachedResultName": "freelance2"
+          "cachedResultName": ""
         },
         "topK": 5,
         "options": {
-          "pineconeNamespace": "Free2"
+          "pineconeNamespace": ""
         }
       },
       "type": "@n8n/n8n-nodes-langchain.vectorStorePinecone",
@@ -678,12 +678,12 @@
         912,
         512
       ],
-      "id": "feb4c60a-b65b-4a80-84b0-ae13c0e62f74",
+      "id": "",
       "name": "Vector Database",
       "credentials": {
         "pineconeApi": {
-          "id": "TYtp64fRtdRYU4Ky",
-          "name": "Freelance2"
+          "id": "",
+          "name": ""
         }
       }
     },
@@ -698,7 +698,7 @@
         784,
         528
       ],
-      "id": "d9e3dffd-7ae9-4ea3-8b25-a513f9713656",
+      "id": "",
       "name": "Simple Memory"
     }
   ],
