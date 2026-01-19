@@ -2,8 +2,8 @@
 Note: This is a demo workflow using a fictional automotive company (Voltx) as an example. Replace company names, categories, and keywords with your actual use case.
 
 ## User Message Prompt
-"Subject: {{ $('Gmail Trigger').item.json.headers.subject }}"
-"Body: {{ $('Gmail Trigger').item.json.text }}"
+Subject: {{ $('Gmail Trigger').item.json.headers.subject }}
+Body: {{ $('Gmail Trigger').item.json.text }}
 
 ## System Prompt
     "You are a professional and helpful Customer Support Agent for VoltX Motors, a leading electric vehicle company. 
